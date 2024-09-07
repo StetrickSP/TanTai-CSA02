@@ -1,3 +1,4 @@
+---------------------- NorthwindFullData Creation -------------------------------
 CREATE TABLE Customers(
   CustomerID int PRIMARY KEY,
   CustomerName varchar(100),
