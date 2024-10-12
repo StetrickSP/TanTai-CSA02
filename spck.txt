@@ -1,0 +1,14 @@
+Dataset: https://data.worldbank.org/indicator/NY.GNP.ATLS.CD?end=2023&locations=VN-ID-TH-SG-PH-BN-KH-TL-LA-MM-MY&name_desc=false&start=1994&view=chart
+Title: GNI of all Southeast Asia countries from 1994 to now.
+
+3/2/1994: Tổng thống Mỹ Bill Clinton công bố quyết định bãi bỏ hoàn toàn lệnh cấm vận thương mại kéo dài 19 năm đối với Việt Nam.
+Conclusions: 
+  + Indonesia is the number 1 enocomy of Southeast Asia and has a dramatic growth rate since 2000.
+
+  + Thailand and Phillipines come in second and third respectively. Though, in recent years Thailand's GNI has been remaining slightly unchanged, giving chance for Phillipines to catch up. 
+  (TH:515,549.31 & PH:496,166.22)
+
+  + Both Malaysia and Singapore have similar growth rates and starting point, in terms of GNI, throughout the years. However, in recent years, VN is starting to catch up with both of these countries.  
+  + VN has a fast growing rate, despite being cấm vận thương mại for 19 years, as of now, GNI of VN is approximately equal to that of Singapore and Malaysia. (VN:412,944.12 & SGP:417,722.20 & MY:410,754.45)
+
+  + Myanmar, Timor-Leste, Brunei Darussalam, Cambodia, Lao PDR: these are low-developing countries with GNI only ranging below 70,000 as of 2023. VN used to be in this group but has been developing fast and is not considered low-developing anymore. 
