@@ -1,14 +1,43 @@
-Dataset: https://data.worldbank.org/indicator/NY.GNP.ATLS.CD?end=2023&locations=VN-ID-TH-SG-PH-BN-KH-TL-LA-MM-MY&name_desc=false&start=1994&view=chart
-Title: GNI of all Southeast Asia countries from 1994 to now.
+Dataset: 
+  + https://data.worldbank.org/indicator/NY.GNP.ATLS.CD?end=2023&locations=VN-ID-TH-SG-PH-BN-KH-TL-LA-MM-MY&name_desc=false&start=1994&view=chart
+  + https://vbma.org.vn/vi/market-data/gdp-industry-group
 
-3/2/1994: Tổng thống Mỹ Bill Clinton công bố quyết định bãi bỏ hoàn toàn lệnh cấm vận thương mại kéo dài 19 năm đối với Việt Nam.
+Title: The growth and Potential of Vietnam's economy
+
+Thuyết trình:
+- Slide tiêu đề (thuyết trình SPCK CSA02)
+- Giới thiệu bản thân
+- Giới thiệu về các dataset mà bạn đã chọn (The Growth + Potential + Industries of Vietnam's economy)
+- Giới thiệu sơ về các cột trong dataset (GNI của VN, GDP các ngành ở VN)
+- Giới thiệu về các câu hỏi/vấn đề/mục tiêu xử lý dataset mà các bạn đã chuẩn bị. Phần này nên chia thành nhiều slide, sau khi giới thiệu xong thì chèn 1 - 4 hình ảnh chart vào 1 slide riêng
+- Demo (lưu ý chạy code trước khi demo, không để lên demo mới chạy)
+- Quá trình làm (Đã tham khảo rất nhiều bằng các video về nền kinh tế VN)
+- Khó khăn khi xử lý dữ liệu => cách giải quyết
+- Q&A 
+
+Reference and steps: 
+  + 3/2/1994: Tổng thống Mỹ Bill Clinton công bố quyết định bãi bỏ hoàn toàn lệnh cấm vận thương mại kéo dài 19 năm đối với Việt Nam.
+  + Harumaki-san and Ren-san: "Vietnam has a really fast growing rate, top 20 in world, that's why our University sent us here as Exchange Students." (https://en.baochinhphu.vn/viet-nam-to-enter-top-20-fastest-growing-economies-globally-in-2024-111240604105218378.htm#:~:text=Viet%20Nam%20is%20among%20world)
+  + Explains what GNI is (Tổng thu nhập quốc dân)(GNI = GDP + (nguồn tiền gửi vào từ ngoại quốc - nguồn tiền gửi ra cho ngoại quốc))
+  + Explains why use GNI instead of GDP: it is among the most popular of economic indicators, GNI is quite possibly a better metric for the overall economic condition of a country whose economy includes substantial foreign investments.
+  
+
 Conclusions: 
+  ? Which country is the number 1 economy in SEA?
   + Indonesia is the number 1 enocomy of Southeast Asia and has a dramatic growth rate since 2000.
 
+  ? Which are the second and third most developed countries in SEA?
   + Thailand and Phillipines come in second and third respectively. Though, in recent years Thailand's GNI has been remaining slightly unchanged, giving chance for Phillipines to catch up. 
   (TH:515,549.31 & PH:496,166.22)
 
-  + Both Malaysia and Singapore have similar growth rates and starting point, in terms of GNI, throughout the years. However, in recent years, VN is starting to catch up with both of these countries.  
-  + VN has a fast growing rate, despite being cấm vận thương mại for 19 years, as of now, GNI of VN is approximately equal to that of Singapore and Malaysia. (VN:412,944.12 & SGP:417,722.20 & MY:410,754.45)
+  ? Why is Vietnam so outstanding despite being in a Trade Embargo?
+  + Both Malaysia and Singapore have similar growth rates and starting point, in terms of GNI, throughout the years. However, in recent years, VN is starting to catch up with both of these countries.
+  + VN has a fast growing rate, despite being in a Trade Embargo for 19 years, as of now, GNI of VN is approximately equal to that of Singapore and Malaysia. (VN:412,944.12 & SGP:417,722.20 & MY:410,754.45)
 
+  ? Which countries are of low growth rate?
   + Myanmar, Timor-Leste, Brunei Darussalam, Cambodia, Lao PDR: these are low-developing countries with GNI only ranging below 70,000 as of 2023. VN used to be in this group but has been developing fast and is not considered low-developing anymore. 
+-------------------------------------------------------------------------
+Trung bình ngành nào lớn mạnh nhất ở Việt Nam trong các năm?
+Các ngành nào đang suy yếu trong các năm?
+Tổng quan GDP của Việt Nam có xu hướng gì? 
+Dựa trên các xu hướng của của các ngành, nên chú trọng đầu tư vào ngành nào để phát triển đất nước?
